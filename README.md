@@ -1,2 +1,2 @@
 # BattleBotLegoMindEV3
-Code for battle bot(s)
+Some code for battle bot(s)
