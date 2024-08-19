@@ -1,3 +1,10 @@
+Design Breif:
+"Gamelike" I want to fucking killer the IST teacher
+Game Type, Human Interactive, User Choices, Challenge, Sensory Stimulation, Story/Context, Continuity of Experience.
+All in all, I wish to kill the IST teacher
+
+
+
 ---------Design Here-----------
 
 Possible things: Mazes, Puzzels, PvP(??????????????????????????????????)
