@@ -1,1 +1,6 @@
 ---------Design Here-----------
+
+Possible things:
+    Mazes
+    Puzzels 
+    PvP
